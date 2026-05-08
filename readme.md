@@ -12,3 +12,6 @@ VS Code only.
 
 ## How to visit it
 [https://jad3ra1der.github.io/40kraider/]
+
+## What changed between projects?
+My P01 submission was already strong, so I focused on adding more content rather than overhauling what was already finished. I expanded the home page and added a picture of my entire army assembled, as well as adding pages for two units which I forgot in P01.
